@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking for help with [Team Launchix](https://macubetech.github.io/Boostrap-project-Free-Art-/)
 
-- 👨‍💻 All of my projects are available at [https://linktree](https://linktree)
 
 - 📫 How to reach me **macubetech@gmail.com**
 
