@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammadarish-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadarish-dev" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad arish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad arish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/mwlite/in/muhammad-arish-dev-22423b256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadarish-dev" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muhammad.arishansari.1?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad arish" height="30" width="40" /></a>
 <a href="https://instagram.com/m_arish.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_arish.official" height="30" width="40" /></a>
 <a href="https://www.behance.net/madesignshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="madesignshop" height="30" width="40" /></a>
 </p>
