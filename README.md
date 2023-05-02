@@ -1,4 +1,4 @@
-![logo](https://github.com/macubetech/macubetech/blob/main/banner%20arish.jpg)
+![logo](https://github.com/macubetech/macubetech/blob/main/Blue%20and%20Purple%20Cyberpunk%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Arish</h1>
 <h3 align="center">A passionate frontend developer & graphic designer from Pakistan</h3>
 
